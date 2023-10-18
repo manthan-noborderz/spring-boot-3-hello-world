@@ -9,7 +9,7 @@
 		<version>3.1.0</version>
 	</parent>
 
-	<groupId>com.example</groupId>
+	<groupId>io.github.manthan-noborderz</groupId>
 	<artifactId>spring-boot-3-hello-world</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
